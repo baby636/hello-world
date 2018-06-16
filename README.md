@@ -22,7 +22,7 @@ Twitter - <a href="https://twitter.com/eosukbp" target="_blank">https://twitter.
 Steemit - <a href="https://steemit.com/@bodget" target="_blank">https://steemit.com/@bodget</a><br/>
 Facebook - <a href="https://www.facebook.com/eosukbp" target="_blank">https://www.facebook.com/eosukbp</a><br/>
 Medium - <a href="https://medium.com/@rogerdavies_2315" target="_blank">https://medium.com/@rogerdavies_2315</a><br/>
-Youtube - <a href="https://www.youtube.com/channel/UCGxatJjuafURvxMDKXwi8WA" target="_blank">https://www.youtube.com/channel/UCGxatJjuafURvxMDKXwi8WA</a>
+Youtube - <a href="https://www.youtube.com/channel/UCGxatJjuafURvxMDKXwi8WA" target="_blank">https://www.youtube.com/channel/UCGxatJjuafURvxMDKXwi8WA</a><br/>
 Instagram - <a href="https://www.instagram.com/eosuk.io" target="_blank">https://www.instagram.com/eosuk.io</a>
 
 You can telephone us on +44 (0)115 822 4546
