@@ -11,22 +11,25 @@ EOS UK is the Block Producer candidate name of Advanta Productions Limited.
 
 Advanta is based in Central England, at Nottingham, United Kingdom.
 
-For launch the Block Producer Node is going to be housed at the Space Data Centre in Nottingham https://www.spacedatacentres.co.uk/
+The Block Producer Primary Node is housed at the Space Data Centre in Nottingham <a href="https://www.spacedatacentres.co.uk/" target="_blank">https://www.spacedatacentres.co.uk/</a>
 
 Advanta Productions is owned by Roger Davies <a href="https://www.linkedin.com/in/roger-davies-bb0b861/" target="_blank">see his LinkedIn profile here</a>.
 
 Follow the EOS UK BP Campaign via the following Social Media Platforms
 
-Telegram - https://t.me/joinchat/GefimxBKTqvrKPX9ZA4zGg <br/>
-Steemit - https://steemit.com/@bodget <br/>
-Twitter - https://twitter.com/advantapro <br/>
-Facebook - https://www.facebook.com/advantaproductions
+Telegram - <a href="https://t.me/eosuk" target="_blank">https://t.me/eosuk</a><br/>
+Twitter - <a href="https://twitter.com/eosukbp" target="_blank">https://twitter.com/eosukbp</a><br/>
+Steemit - <a href="https://steemit.com/@bodget" target="_blank">https://steemit.com/@bodget</a><br/>
+Facebook - <a href="https://www.facebook.com/eosukbp" target="_blank">https://www.facebook.com/eosukbp</a><br/>
+Medium - <a href="https://medium.com/@rogerdavies_2315" target="_blank">https://medium.com/@rogerdavies_2315</a><br/>
+Youtube - <a href="https://www.youtube.com/channel/UCGxatJjuafURvxMDKXwi8WA" target="_blank">https://www.youtube.com/channel/UCGxatJjuafURvxMDKXwi8WA</a>
+Instagram - <a href="https://www.instagram.com/eosuk.io" target="_blank">https://www.instagram.com/eosuk.io</a>
 
 You can telephone us on +44 (0)115 822 4546
 
 Our campaign is being built on pure Block Production and the journey therein. 
 
-We do not plan on performing any other activities except specialising 100% on the mechanics of Block Production and everything that comes with that. This will include a community outreach program through meetups, supporting online users operating EOS accounts, wallets and tools, and of course the governance and constitutional responsibilities required of Block Producers. 
+We do not plan on performing any other activities except specialising 100% in the mechanics of Block Production and everything that comes with that. This includes a community outreach program through meetups, supporting online users operating EOS accounts, wallets and tools, and of course the governance and constitutional responsibilities required of Block Producers. 
 
 As a Block Producer the block rewards that we receive will be reinvested in the production infrastructure and a percentage will be donated to the <a href="https://eoseniversity.io" target="_blank">EOSUniversity.io</a> project which we are sponsoring.
 
@@ -50,4 +53,4 @@ NG2 6FP
 Tel +44 (0)115 822 4546<br/>
 email bp@eosuk.io
 
-https://eosuk.io
+<a href="https://eosuk.io" target="_blank">https://eosuk.io</a>
