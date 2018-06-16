@@ -37,7 +37,7 @@ In the main EOS UK block rewards will be invested in more equipment, more staff,
 
 Being a UK based organisation we intend to establish secondary physical nodes and API end points in Scotland and Wales Data Centre locations, in addition to our England node in Nottingham to provide fast access to the EOS network primarily for the UK community. 
 
-At launch we have provisioned secondary instances at the Hetzner Data Centre in Germany because it is a company we have worked with extensively in the past and it was simpler for us to setup the failover there until we are able to thoroughly research our failover locations in the UK. A German failover location seemed like a good idea from the point of view of Geographical diversity, whilst still being local to the UK in terms of connectivity, and of course German Engineering is world renowned for quality which is relfected in our past experience working with Hetzner. 
+At launch we have provisioned secondary instances at the Hetzner Data Centre in Germany because it is a company we have worked with extensively in the past and it was simpler for us to setup the failover there until we are able to thoroughly research our failover locations in the UK. A German failover location seemed like a good idea from the point of view of geographical diversity, whilst still being local to the UK in terms of connectivity, and of course German Engineering is world renowned for quality which is relfected in our past experience working with Hetzner. 
 
 Protect your investment in EOS <a href="https://eosuk.io/how-to-vote-for-eos-block-producers-eos-uk/" target="_blank"> vote for EOS UK</a> - Protecting the Future of the EOS Blockchain.
 
